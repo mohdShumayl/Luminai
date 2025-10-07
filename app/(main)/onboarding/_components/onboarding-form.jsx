@@ -1,4 +1,3 @@
-
 "use client";
 
 import { useState, useEffect } from "react";
@@ -212,4 +211,4 @@ const OnboardingForm = ({ industries }) => {
   );
 };
 
-export default OnboardingForm;
+export default OnboardingForm
