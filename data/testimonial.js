@@ -1,24 +1,27 @@
+import imageOne from "@/public/74.jpg"
+import imagetwo from "@/public/75.jpg"
+import imagethree from "@/public/751.jpg"
 export const testimonial = [
   {
     quote:
-      "The AI-powered interview prep was a game-changer. Landed my dream job at a top tech company!",
+      "LuminAI completely transformed how I approach my career. The AI suggestions are spot-on, and I now feel confident making strategic career moves!",
     author: "Sarah Chen",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    image: imageOne,
     role: "Software Engineer",
     company: "Tech Giant Co.",
   },
   {
     quote:
-      "The industry insights helped me pivot my career successfully. The salary data was spot-on!",
+      "LuminAI’s personalized insights helped me discover opportunities I never considered. Highly recommend!",
     author: "Michael Rodriguez",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    image: imagethree,
     role: "Product Manager",
     company: "StartUp Inc.",
   },
   {
     quote:
-      "My resume's ATS score improved significantly. Got more interviews in two weeks than in six months!",
-    author: "Priya Patel",
+      "he app’s AI-driven guidance is incredible. It’s like having a career coach available 24/7, and it helped me prepare for skill growth.",
+    author: imagetwo,
     image: "https://randomuser.me/api/portraits/women/74.jpg",
     role: "Marketing Director",
     company: "Global Corp",
