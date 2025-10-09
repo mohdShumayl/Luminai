@@ -6,7 +6,7 @@ export const testimonial = [
     quote:
       "LuminAI completely transformed how I approach my career. The AI suggestions are spot-on, and I now feel confident making strategic career moves!",
     author: "Sarah Chen",
-    image: imageOne,
+    image: "https://randomuser.me/api/portraits/women/43.jpg",
     role: "Software Engineer",
     company: "Tech Giant Co.",
   },
@@ -14,15 +14,15 @@ export const testimonial = [
     quote:
       "LuminAI’s personalized insights helped me discover opportunities I never considered. Highly recommend!",
     author: "Michael Rodriguez",
-    image: imagethree,
+    image: "https://randomuser.me/api/portraits/men/31.jpg",
     role: "Product Manager",
     company: "StartUp Inc.",
   },
   {
     quote:
-      "he app’s AI-driven guidance is incredible. It’s like having a career coach available 24/7, and it helped me prepare for skill growth.",
-    author: imagetwo,
-    image: "https://randomuser.me/api/portraits/women/74.jpg",
+      "The app’s AI-driven guidance is incredible. It’s like having a career coach available 24/7, and it helped me prepare for skill growth.",
+    author: "Peter steve",
+    image: "https://randomuser.me/api/portraits/men/28.jpg",
     role: "Marketing Director",
     company: "Global Corp",
   },
