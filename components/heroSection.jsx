@@ -36,7 +36,7 @@ const HeroSection = () => {
             Professional Success
           </h1>
           <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
-            Advance your career with personalized guidance, interview prep, and
+            Advance your career with personalized guidance and
             AI-powered tools for job success.
           </p>
         </div>
@@ -46,7 +46,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://www.youtube.com/watch?v=aBWY4gxb8Xk">
+          <Link href="https://www.youtube.com/watch?v=8fyzFaJcF8s">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
